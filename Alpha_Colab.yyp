@@ -35,7 +35,7 @@
   "name":"Alpha_Colab",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Pacman","path":"sprites/Pacman/Pacman.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
