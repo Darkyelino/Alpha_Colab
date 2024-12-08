@@ -34,8 +34,9 @@
   },
   "name":"Alpha_Colab",
   "resources":[
+    {"id":{"name":"obj_pacman","path":"objects/obj_pacman/obj_pacman.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Pacman","path":"sprites/Pacman/Pacman.yy",},},
+    {"id":{"name":"spr_pac_man","path":"sprites/spr_pac_man/spr_pac_man.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
